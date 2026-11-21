@@ -1,0 +1,14 @@
+{
+  "payment_reference": "11240054375",
+  "payment_amount": 1640.0,
+  "invoices": [
+    {
+      "reference": "11-26-40032",
+      "amount": 820.0
+    },
+    {
+      "reference": "11-26-40705",
+      "amount": 820.0
+    }
+  ]
+}

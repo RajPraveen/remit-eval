@@ -1,0 +1,9 @@
+{
+  "name": "remit-eval",
+  "private": true,
+  "scripts": {
+    "check": "npm --prefix server run check",
+    "start": "./start.sh",
+    "stop": "./stop.sh"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "orchestrator": {
+    "provider": "openrouter",
+    "model": "anthropic/claude-opus-5.5",
+    "tools": [
+      "read_part"
+    ]
+  },
+  "reader": {
+    "provider": "openrouter",
+    "model": "anthropic/claude-haiku-5.5",
+    "tools": [
+      "read_section"
+    ]
+  }
+}

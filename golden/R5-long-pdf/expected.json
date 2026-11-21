@@ -1,0 +1,558 @@
+{
+  "payment_reference": "112020000495932026",
+  "payment_amount": 600458.0,
+  "invoices": [
+    {
+      "reference": "81-26-22910",
+      "amount": 6788.0
+    },
+    {
+      "reference": "81-26-22904",
+      "amount": 880.0
+    },
+    {
+      "reference": "81-26-22900",
+      "amount": 1215.0
+    },
+    {
+      "reference": "81-26-21801",
+      "amount": 1986.0
+    },
+    {
+      "reference": "81-26-21791",
+      "amount": 1194.0
+    },
+    {
+      "reference": "81-26-21788",
+      "amount": 900.0
+    },
+    {
+      "reference": "81-26-21802",
+      "amount": 8049.0
+    },
+    {
+      "reference": "80-26-23193",
+      "amount": 603.0
+    },
+    {
+      "reference": "80-26-23189",
+      "amount": 1286.0
+    },
+    {
+      "reference": "80-26-23191",
+      "amount": 300.0
+    },
+    {
+      "reference": "80-26-23187",
+      "amount": 1641.0
+    },
+    {
+      "reference": "80-26-23185",
+      "amount": 275.0
+    },
+    {
+      "reference": "80-26-23194",
+      "amount": 1396.0
+    },
+    {
+      "reference": "80-26-23195",
+      "amount": 1286.0
+    },
+    {
+      "reference": "46-26-17864",
+      "amount": 516.0
+    },
+    {
+      "reference": "46-26-23659",
+      "amount": 7134.0
+    },
+    {
+      "reference": "46-26-23657",
+      "amount": 250.0
+    },
+    {
+      "reference": "46-26-23648",
+      "amount": 2320.0
+    },
+    {
+      "reference": "50-26-23651",
+      "amount": 2046.0
+    },
+    {
+      "reference": "85-26-22562",
+      "amount": 1836.0
+    },
+    {
+      "reference": "85-26-22560",
+      "amount": 5610.0
+    },
+    {
+      "reference": "85-26-22515",
+      "amount": 216.0
+    },
+    {
+      "reference": "46-26-22308",
+      "amount": 250.0
+    },
+    {
+      "reference": "46-26-22917",
+      "amount": 864.0
+    },
+    {
+      "reference": "46-26-22913",
+      "amount": 711.0
+    },
+    {
+      "reference": "46-26-22657",
+      "amount": 711.0
+    },
+    {
+      "reference": "46-26-22616",
+      "amount": 1990.0
+    },
+    {
+      "reference": "46-26-22611",
+      "amount": 864.0
+    },
+    {
+      "reference": "46-26-22563",
+      "amount": 603.0
+    },
+    {
+      "reference": "46-26-22524",
+      "amount": 100.0
+    },
+    {
+      "reference": "46-26-22520",
+      "amount": 739.0
+    },
+    {
+      "reference": "46-26-22513",
+      "amount": 1411.0
+    },
+    {
+      "reference": "46-26-22094",
+      "amount": 1411.0
+    },
+    {
+      "reference": "46-26-22093",
+      "amount": 1319.0
+    },
+    {
+      "reference": "81-26-22996",
+      "amount": 1194.0
+    },
+    {
+      "reference": "CRM007471",
+      "amount": -5410.0
+    },
+    {
+      "reference": "37-26-24377",
+      "amount": 7790.0
+    },
+    {
+      "reference": "37-26-24101",
+      "amount": 9523.0
+    },
+    {
+      "reference": "37-26-24097",
+      "amount": 4795.0
+    },
+    {
+      "reference": "37-26-24095",
+      "amount": 3850.0
+    },
+    {
+      "reference": "37-26-24094",
+      "amount": 31715.0
+    },
+    {
+      "reference": "37-26-23019",
+      "amount": 5834.0
+    },
+    {
+      "reference": "37-26-23088",
+      "amount": 624.0
+    },
+    {
+      "reference": "37-26-23072",
+      "amount": 290.0
+    },
+    {
+      "reference": "37-26-23055",
+      "amount": 290.0
+    },
+    {
+      "reference": "37-26-23048",
+      "amount": 290.0
+    },
+    {
+      "reference": "37-26-23042",
+      "amount": 2126.0
+    },
+    {
+      "reference": "37-26-23033",
+      "amount": 17729.0
+    },
+    {
+      "reference": "37-26-22999",
+      "amount": 568.0
+    },
+    {
+      "reference": "37-26-22993",
+      "amount": 8507.0
+    },
+    {
+      "reference": "37-26-22987",
+      "amount": 2486.0
+    },
+    {
+      "reference": "31-26-23150",
+      "amount": 244.0
+    },
+    {
+      "reference": "31-26-23138",
+      "amount": 250.0
+    },
+    {
+      "reference": "31-26-23134",
+      "amount": 495.0
+    },
+    {
+      "reference": "31-26-23115",
+      "amount": 174.0
+    },
+    {
+      "reference": "31-26-23107",
+      "amount": 244.0
+    },
+    {
+      "reference": "31-26-23099",
+      "amount": 232.0
+    },
+    {
+      "reference": "37-26-22991",
+      "amount": 2433.0
+    },
+    {
+      "reference": "37-26-22974",
+      "amount": 12017.0
+    },
+    {
+      "reference": "37-26-22536",
+      "amount": 3315.0
+    },
+    {
+      "reference": "81-26-22998",
+      "amount": 8879.0
+    },
+    {
+      "reference": "20-26-23453",
+      "amount": 638.0
+    },
+    {
+      "reference": "20-26-23456",
+      "amount": 590.0
+    },
+    {
+      "reference": "20-26-23450",
+      "amount": 1215.0
+    },
+    {
+      "reference": "20-26-23442",
+      "amount": 1286.0
+    },
+    {
+      "reference": "20-26-23438",
+      "amount": 464.0
+    },
+    {
+      "reference": "20-26-22724",
+      "amount": 1194.0
+    },
+    {
+      "reference": "20-26-22680",
+      "amount": 58.0
+    },
+    {
+      "reference": "20-26-22679",
+      "amount": 5280.0
+    },
+    {
+      "reference": "30-26-20393",
+      "amount": 11450.0
+    },
+    {
+      "reference": "30-26-20394",
+      "amount": 2200.0
+    },
+    {
+      "reference": "30-26-19982",
+      "amount": 450.0
+    },
+    {
+      "reference": "30-26-20395",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-20399",
+      "amount": 24255.0
+    },
+    {
+      "reference": "30-26-21188",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-21187",
+      "amount": 715.0
+    },
+    {
+      "reference": "30-26-21711",
+      "amount": 550.0
+    },
+    {
+      "reference": "30-26-22144",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-23262",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-20418",
+      "amount": 2680.0
+    },
+    {
+      "reference": "30-26-20471",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-21630",
+      "amount": 10725.0
+    },
+    {
+      "reference": "30-26-21709",
+      "amount": 2640.0
+    },
+    {
+      "reference": "30-26-21720",
+      "amount": 10725.0
+    },
+    {
+      "reference": "30-26-21721",
+      "amount": 2698.0
+    },
+    {
+      "reference": "30-26-23283",
+      "amount": 22670.0
+    },
+    {
+      "reference": "30-26-23269",
+      "amount": 9260.0
+    },
+    {
+      "reference": "30-26-23268",
+      "amount": 11450.0
+    },
+    {
+      "reference": "30-26-23276",
+      "amount": 2680.0
+    },
+    {
+      "reference": "30-26-23272",
+      "amount": 2698.0
+    },
+    {
+      "reference": "30-26-22263",
+      "amount": 1200.0
+    },
+    {
+      "reference": "30-26-21710",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-21186",
+      "amount": 1350.0
+    },
+    {
+      "reference": "30-26-22269",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-23281",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-23270",
+      "amount": 1200.0
+    },
+    {
+      "reference": "30-26-23258",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-21629",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-21461",
+      "amount": 220.0
+    },
+    {
+      "reference": "30-26-20422",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-20419",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-20467",
+      "amount": 1750.0
+    },
+    {
+      "reference": "30-26-18890",
+      "amount": 2535.0
+    },
+    {
+      "reference": "30-26-20391",
+      "amount": 9260.0
+    },
+    {
+      "reference": "50-26-23345",
+      "amount": 8437.0
+    },
+    {
+      "reference": "50-26-23328",
+      "amount": 5280.0
+    },
+    {
+      "reference": "50-26-22089",
+      "amount": 5410.0
+    },
+    {
+      "reference": "46-26-22088",
+      "amount": 1766.0
+    },
+    {
+      "reference": "46-26-22521",
+      "amount": 5610.0
+    },
+    {
+      "reference": "46-26-22096",
+      "amount": 5610.0
+    },
+    {
+      "reference": "77-26-24310",
+      "amount": 864.0
+    },
+    {
+      "reference": "74-26-23978",
+      "amount": 30756.0
+    },
+    {
+      "reference": "77-26-23642",
+      "amount": 42336.0
+    },
+    {
+      "reference": "77-26-23641",
+      "amount": 432.0
+    },
+    {
+      "reference": "74-26-23982",
+      "amount": 2304.0
+    },
+    {
+      "reference": "74-26-23420",
+      "amount": 2304.0
+    },
+    {
+      "reference": "77-26-23242",
+      "amount": 8930.0
+    },
+    {
+      "reference": "77-26-23239",
+      "amount": 2553.0
+    },
+    {
+      "reference": "77-26-22898",
+      "amount": 1286.0
+    },
+    {
+      "reference": "77-26-22893",
+      "amount": 2160.0
+    },
+    {
+      "reference": "77-26-22063",
+      "amount": 2160.0
+    },
+    {
+      "reference": "74-26-23357",
+      "amount": 720.0
+    },
+    {
+      "reference": "IN-26-21718",
+      "amount": 5034.0
+    },
+    {
+      "reference": "IN-26-22300",
+      "amount": 1675.0
+    },
+    {
+      "reference": "IN-26-20609",
+      "amount": 8009.0
+    },
+    {
+      "reference": "IN-26-20264",
+      "amount": 18800.0
+    },
+    {
+      "reference": "IN-26-20265",
+      "amount": 18911.0
+    },
+    {
+      "reference": "IN-26-22299",
+      "amount": 1675.0
+    },
+    {
+      "reference": "IN-26-21451",
+      "amount": 1675.0
+    },
+    {
+      "reference": "IN-26-23295",
+      "amount": 1675.0
+    },
+    {
+      "reference": "IN-26-20610",
+      "amount": 9750.0
+    },
+    {
+      "reference": "IN-26-20613",
+      "amount": 11619.0
+    },
+    {
+      "reference": "IN-26-20614",
+      "amount": 8009.0
+    },
+    {
+      "reference": "IN-26-21985",
+      "amount": 25810.0
+    },
+    {
+      "reference": "IN-26-21449",
+      "amount": 10243.0
+    },
+    {
+      "reference": "IN-26-21450",
+      "amount": 6160.0
+    },
+    {
+      "reference": "30-26-23816",
+      "amount": 2680.0
+    },
+    {
+      "reference": "30-26-23815",
+      "amount": 330.0
+    }
+  ]
+}

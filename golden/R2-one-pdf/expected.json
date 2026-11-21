@@ -1,0 +1,50 @@
+{
+  "payment_reference": "2001250248",
+  "payment_amount": 1609068.81,
+  "invoices": [
+    {
+      "reference": "IN-26-38350",
+      "amount": 4292.86
+    },
+    {
+      "reference": "IN-26-38351",
+      "amount": 13317.48
+    },
+    {
+      "reference": "IN-26-38815",
+      "amount": 109449.83
+    },
+    {
+      "reference": "IN-26-38731",
+      "amount": 24418.98
+    },
+    {
+      "reference": "IN-26-38485",
+      "amount": 23921.53
+    },
+    {
+      "reference": "IN-26-38481",
+      "amount": 11537.94
+    },
+    {
+      "reference": "IN-26-38789",
+      "amount": 7870.9
+    },
+    {
+      "reference": "IN-26-38805",
+      "amount": 11864.03
+    },
+    {
+      "reference": "IN-26-38457",
+      "amount": 34877.81
+    },
+    {
+      "reference": "IN-26-38688",
+      "amount": 635000.48
+    },
+    {
+      "reference": "IN-26-38718",
+      "amount": 732516.97
+    }
+  ]
+}

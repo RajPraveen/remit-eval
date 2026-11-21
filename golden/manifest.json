@@ -1,0 +1,109 @@
+{
+  "version": "v1",
+  "records": [
+    {
+      "id": "R1-body-only",
+      "kind": "Email body only",
+      "account": "247",
+      "files": [
+        {
+          "name": "arrival/body.txt",
+          "sha256": "f75eac193c600bbc67c2607be16044da7b554060da53658a09bf19b09c084a86"
+        },
+        {
+          "name": "expected.json",
+          "sha256": "f72f70c06b195c176d24f558d5dc4821fe3265cf10662ffd72806b5fb45fa75c"
+        }
+      ],
+      "expected_rows": 9
+    },
+    {
+      "id": "R2-one-pdf",
+      "kind": "Email and one PDF",
+      "account": "247",
+      "files": [
+        {
+          "name": "arrival/body.txt",
+          "sha256": "f2cd9385e6cde594ccbc74cc47ff47fad9b799c648d27d7debff011ee84aedba"
+        },
+        {
+          "name": "arrival/remit.pdf",
+          "sha256": "a75da26dfacb9a7f7d61ee8817b22b9c6d51458529b522abf7962db465941a21"
+        },
+        {
+          "name": "expected.json",
+          "sha256": "8ea5051fbc2d766ebf42b5b51e5290b5458d651591b5afda86b18179f13d96db"
+        }
+      ],
+      "expected_rows": 11
+    },
+    {
+      "id": "R3-several-pdfs",
+      "kind": "Email and several PDFs",
+      "account": "247",
+      "files": [
+        {
+          "name": "arrival/body.txt",
+          "sha256": "ce665a9bd2c701e01dd782a76cf6efcdea87392616ee9f27816d9d09a3fb2dd0"
+        },
+        {
+          "name": "arrival/remit-1.pdf",
+          "sha256": "d44f026bf1c10ba8ad9f7eba48f0629af99e4dede11db97d4d9ee4b9ff35c9c9"
+        },
+        {
+          "name": "arrival/remit-2.pdf",
+          "sha256": "a4c151ae636a1c841ddd2f73fafaa6eb271e3b3c9a91034ee403c9cc6f50ec0e"
+        },
+        {
+          "name": "expected.json",
+          "sha256": "bc35c81ace2296f29acf78f814577d6ddbe44b0033fc8e02f6ed48b6f36692cb"
+        }
+      ],
+      "expected_rows": 2
+    },
+    {
+      "id": "R4-pdf-and-document",
+      "kind": "Email, PDF and a document",
+      "account": "247",
+      "files": [
+        {
+          "name": "arrival/body.txt",
+          "sha256": "7afcdca9d26b9264382f89e96baf720238d9d88f5582b163498af631748cc954"
+        },
+        {
+          "name": "arrival/detail.csv",
+          "sha256": "d580255cfb7bb69de6b4956a9f244134b9d5a04055ae49cb940153cc7d0df3f7"
+        },
+        {
+          "name": "arrival/remit.pdf",
+          "sha256": "986ebe7bd18ee9a216b0a117bf7d9f2940628dfcac38bc381286437938674c78"
+        },
+        {
+          "name": "expected.json",
+          "sha256": "1f53a736bed073056bd3baed47b7066070988f9ed6e5ee3083a5dc19078d0817"
+        }
+      ],
+      "expected_rows": 1
+    },
+    {
+      "id": "R5-long-pdf",
+      "kind": "Email and a long PDF",
+      "account": "247",
+      "files": [
+        {
+          "name": "arrival/body.txt",
+          "sha256": "78fda094ecbd12f6dda3b566be5546364a3f5815c960dcd459eb50ae6e5e78e9"
+        },
+        {
+          "name": "arrival/remit.pdf",
+          "sha256": "80c973c79c936bac54bfe2178a5f2f6a424e8bc737c802aebef61b7799d237dd"
+        },
+        {
+          "name": "expected.json",
+          "sha256": "1bb543bedfd48f9f293bdb40b856a8ba6368421fb0af1d5767997d73ae798478"
+        }
+      ],
+      "expected_rows": 138
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "payment_reference": "8543805",
+  "payment_amount": 74842.11,
+  "invoices": [
+    {
+      "reference": "DRO081526",
+      "amount": 2387.51
+    },
+    {
+      "reference": "IN-26-35745",
+      "amount": 49705.71
+    },
+    {
+      "reference": "JAC081526",
+      "amount": 7646.5
+    },
+    {
+      "reference": "LBB0059120",
+      "amount": 334.71
+    },
+    {
+      "reference": "LEX081526",
+      "amount": 3408.0
+    },
+    {
+      "reference": "ORF081526",
+      "amount": 3443.8
+    },
+    {
+      "reference": "SDF081526",
+      "amount": 3412.0
+    },
+    {
+      "reference": "STL081526",
+      "amount": 3769.75
+    },
+    {
+      "reference": "SYR0059128",
+      "amount": 734.13
+    }
+  ]
+}
